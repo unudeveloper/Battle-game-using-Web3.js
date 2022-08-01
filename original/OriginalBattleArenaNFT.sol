@@ -139,13 +139,13 @@ contract BattleArenaNFT is ERC721, BattleArenaTypes, Ownable {
                 getAccessoryName(nftImages[tokenId]),
                 " "
             );
-            if (nftImages[tokenId] == 4) {
-                url = accessory1;
-            } else if (nftImages[tokenId] == 5) {
-                url = accessory2;
-            } else if (nftImages[tokenId] == 6) {
-                url = accessory3;
-            }
+            // if (nftImages[tokenId] == 4) {
+            //     url = accessory1;
+            // } else if (nftImages[tokenId] == 5) {
+            //     url = accessory2;
+            // } else if (nftImages[tokenId] == 6) {
+            //     url = accessory3;
+            // }
         }
 
         string memory json = Base64.encode(
