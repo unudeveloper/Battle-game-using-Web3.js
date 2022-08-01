@@ -13,15 +13,13 @@ To view a live demo of this project go to https://blockchain-battle-arena.netlif
 ### About
 
 - Artwork by CYUBEART
-- Front end React and Solidity development by archae0pteryx
+- Front end React and Solidity development by Unudeveloper
 - Game development by Jovan
 
-The initial web design was done by Jovan with improvements by archae0pteryx. Sound FX were not created by us but were obtained under a creative commons license.
+The initial web design was done by Jovan with improvements by Unudeveloper. Sound FX were not created by us but were obtained under a creative commons license.
+
+Contact to us:
+https://github.com/unudeveloper/
 
 The source code for this repository is provided under the terms of the GPL 3.0 license. Artwork is &copy;2022 CYUBEART, all rights reserved, and is not provided under an open source or creative commons license.
 
-### The future of NFTs
-
-We would like to evolve the NFT standard to include the ability to mint and trade accessories for the base characters. In addition to accessories, we are also proposing evolving the NFT standard to include methods in the smart contracts that provide the base NFT image with a transparent background. These methods would unlock amazing interoperability with different games and dApps from the get-go, instead of collectors having to wait for the creators of their NFTs to launch a game or partner with other companies.
-
-Some of these concepts are present in our demo here, but we hope to further refine them and build upon them in the future.
